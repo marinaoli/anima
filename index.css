@@ -1,0 +1,22 @@
+
+
+body{
+    background-image: url(fundo.avif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.logo{
+    position: absolute;
+}
+
+
+.escolha
+ {text-align: center;
+ animation: zoomOutDown 2s;}
+
+ 
+  .lego{
+    animation: flash 2s;
+  }
+
